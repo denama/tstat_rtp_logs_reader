@@ -10,20 +10,20 @@ Needs tstat
 
 ```
 Big_folder
-*|
-*|__ msteams
-*|   |__ pcap1.pcap
-*|   |__ pcap2.pcapng
-*|
-*|
-*|__ webex_teams
-*|   |__ pcap1.pcap
-*|   |__ pcap2.pcapng
-*|
-*|
-*|__ skype
-*|   |__ pcap1.pcap
-*|   |__ pcap2.pcapng
+|
+|__ msteams
+|   |__ pcap1.pcap
+|   |__ pcap2.pcapng
+|
+|
+|__ webex_teams
+|   |__ pcap1.pcap
+|   |__ pcap2.pcapng
+|
+|
+|__ skype
+|   |__ pcap1.pcap
+|   |__ pcap2.pcapng
 ```
  
 
