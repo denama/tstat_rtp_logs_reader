@@ -8,7 +8,7 @@ Needs tstat
 
 ## How to organize pcap folder
 
-'''
+```
 Big_folder
 *|
 *|__ msteams
@@ -24,7 +24,7 @@ Big_folder
 *|__ skype
 *|   |__ pcap1.pcap
 *|   |__ pcap2.pcapng
-'''
+```
  
 
 ## Usage
