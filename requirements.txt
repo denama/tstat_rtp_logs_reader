@@ -1,0 +1,3 @@
+geoip2==3.0.0
+pyasn==1.6.0b1
+pandas==1.1.3
