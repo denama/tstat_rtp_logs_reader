@@ -6,7 +6,7 @@ It reads a specific folder structure of pcaps, elaborates them with tstat, then 
 ## Requirements
 Needs [tstat](http://tstat.polito.it/)
 
-## How to organize pcap folder
+## How to organize the pcap folder
 
 ```
 Big_folder
